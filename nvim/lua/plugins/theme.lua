@@ -1,0 +1,1 @@
+/home/jfedgar/.config/omarchy/current/theme/neovim.lua
